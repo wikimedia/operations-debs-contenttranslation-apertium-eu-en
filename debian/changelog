@@ -1,0 +1,11 @@
+apertium-eu-en (0.3.1~r60155-1) trusty; urgency=low
+
+  [ Tino Didriksen ]
+  * Initial release
+  * No significant changes in svn since tarball, so taking directly from svn
+
+  [ Kartik Mistry ]
+  * Fixed dependencies.
+  * Rebuilt for Trusty.
+
+ -- Kartik Mistry <kartik@debian.org>  Tue, 28 Apr 2015 11:06:30 +0530
